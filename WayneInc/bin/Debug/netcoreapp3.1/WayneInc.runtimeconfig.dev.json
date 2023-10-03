@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\axela\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\axela\\.nuget\\packages"
+    ]
+  }
+}
